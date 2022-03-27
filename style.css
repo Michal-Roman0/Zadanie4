@@ -1,0 +1,97 @@
+.faktura{
+			height: 1000px;
+			background-image: url("faktura.png");
+			background-repeat: no-repeat;
+			bacground-size: cover;
+			width:970px;
+			}
+			.produkty{
+				padding-top: 552px;
+				padding-left: 63px;
+			}
+			.nazwa{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 365px;
+			}
+			.ilosc{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 68px;
+			}
+			.cena{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 82px;
+			}
+			.wartosc{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 99px;
+			}
+			.stawka{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 69px;
+			}
+			.VAT{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 82px;
+			}
+			.wartoscVAT{
+			font-size: 14px;
+			padding-top: 7px;
+			padding-bottom: 0px;
+			padding-left: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			height: 25.5px;
+			float: left;
+			width: 88px;
+			}
+			.miejscowosc{
+			font-size: 20px;
+			padding-top: 7px;
+			padding-bottom: 112px;
+			padding-left: 5px;
+			margin-left: 480px;
+			height: 25.5px;
+			float: left;
+			}

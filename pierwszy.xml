@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="testowy.xslt"?>
+
+<Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Towar>
+	<Nazwa>Komputer</Nazwa>
+	<Ilosc>5</Ilosc>
+	<Cena>2000</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Monitor</Nazwa>
+	<Ilosc>5</Ilosc>
+	<Cena>600</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Kabel USB</Nazwa>
+	<Ilosc>10</Ilosc>
+	<Cena>19</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+  <Towar>
+	<Nazwa>Kabel DP</Nazwa>
+	<Ilosc>10</Ilosc>
+	<Cena>39</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Klawiatura</Nazwa>
+	<Ilosc>10</Ilosc>
+	<Cena>119</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Myszka</Nazwa>
+	<Ilosc>10</Ilosc>
+	<Cena>99</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Głośnik</Nazwa>
+	<Ilosc>20</Ilosc>
+	<Cena>110</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Podstawka</Nazwa>
+	<Ilosc>10</Ilosc>
+	<Cena>70</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+<Towar>
+	<Nazwa>Kamerka</Nazwa>
+	<Ilosc>3</Ilosc>
+	<Cena>200</Cena>
+	<Stawka>0.23</Stawka>
+</Towar>
+</Dane>
