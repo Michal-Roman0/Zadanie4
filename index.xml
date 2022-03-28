@@ -1,7 +1,18 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="testowy.xslt"?>
+<?xml-stylesheet type="text/xsl" href="test.xslt"?>
 
 <Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Info>
+	<Nr>182511</Nr>
+	<Miejscowosc>Skierniewice </Miejscowosc>
+	<Data>26.03.2022</Data>
+	<DataZak>29.03.2022</DataZak>
+	<Termin>10.03.2022</Termin>
+	<Sprzedawca>RTV-EURO-USB</Sprzedawca>
+	<Nabywca>SGGW</Nabywca>
+	<Forma>Przelew</Forma>
+	<Konto>112111121211212111</Konto>
+</Info>
 <Towar>
 	<Nazwa>Komputer</Nazwa>
 	<Ilosc>5</Ilosc>
